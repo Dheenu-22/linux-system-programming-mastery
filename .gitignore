@@ -1,3 +1,5 @@
+# Ignore compiled executables
 01_processes/fork_demo
 01_processes/fork_pid
 01_processes/fork_wait
+01_processes/orphan_process
